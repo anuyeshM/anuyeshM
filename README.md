@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @anuyeshM
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Anuyesh Mishra
+- 👀 I’m interested in SASS Platforms
+- 🌱 I’m currently learning AI/ML
+- 💞️ I’m looking to collaborate on Developing SASS Platforms
+- 📫 mishraanuyesh7@gmail.com
 
 <!---
 anuyeshM/anuyeshM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
